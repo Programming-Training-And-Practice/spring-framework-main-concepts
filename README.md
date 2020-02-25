@@ -2,8 +2,8 @@
 
 ## Contents at a Glance.
 * [About](#about)
-* [Main Concepts.](#main-concepts)
 * [Spring Framework Annotations.](#spring-framework-annotations)
+* [Main Concepts.](#main-concepts)
 * [Help](#help)
 * [License](#license)
 
@@ -130,13 +130,11 @@
 
 
 
+
+
 # Main Concepts.
-* []()
 * [ComponentScan in Spring Boot.]()
 * [What is the difference between "web.xml" and the Spring Context "servlet.xml"?.]()
-* [What do you prefer to use for "Spring Configuration" - "XML" or "Annotation"?]()
-* []()
-* []()
 
 
 
