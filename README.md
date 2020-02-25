@@ -56,30 +56,85 @@
 >> * [@CrossOrigin.]()
 
 > ### Composed @RequestMapping Variants.
->> * []()
->> * []()
->> * []()
+> * [HTTP Methods.](https://restfulapi.net/http-methods/)
+>> * [@GetMapping.]()
+>> * [@PostMapping.]()
+>> * [@PutMapping.]()
+>> * [@PatchMapping.]()
+>> * [@DeleteMapping.]()
+>> * [@ExceptionHandler.]()
+>> * [@InitBinder.]()
+>> * [@Mappings and @Mapping.]()
+>> * [@MatrixVariable.]()
+>> * [@PathVariable.]()
+>> * [@RequestAttribute.]()
+>> * [@RequestBody.]()
+>> * [@RequestHeader.]()
+>> * [@RequestParam.]()
+>> * [@RequestPart.]()
+>> * [@ResponseBody.]()
+>> * [@ResponseStatus.]()
+>> * [@ControllerAdvice.]()
+>> * [@RestController.]()
+>> * [@RestControllerAdvice.]()
+>> * [@SessionAttribute.]()
+>> * [@SessionAttributes.]()
 
 > ### Spring Cloud Annotations.
->> * []()
->> * []()
->> * []()
+>> * [@EnableConfigServer.]()
+>> * [@EnableEurekaServer.]()
+>> * [@EnableDiscoveryClient.]()
+>> * [@EnableCircuitBreaker.]()
+>> * [@HystrixCommand.]()
 
-> ###
->> * []()
->> * []()
->> * []()
+> ### Spring Framework DataAccess Annotations.
+>> * [@Transactional.]()
+
+> ### Cache-Based Annotations
+>> * [@Cacheable.]()
+>> * [@CachePut.]()
+>> * [@CacheEvict.]()
+>> * [@CacheConfig.]()
+
+> ### Task Execution and Scheduling Annotations.
+>> * [@Scheduled.]()
+>> * [@Async.]()
+
+> ### Spring Framework Testing Annotations.
+>> * [@BootstrapWith.]()
+>> * [@ContextConfiguration.]()
+>> * [@WebAppConfiguration.]()
+>> * [@Timed.]()
+>> * [@Repeat.]()
+>> * [@Commit.]()
+>> * [@RollBack.]()
+>> * [@DirtiesContext.]()
+>> * [@BeforeTransaction.]()
+>> * [@AfterTransaction.]()
+>> * [@Sql.]()
+>> * [@SqlConfig.]()
+>> * [@SqlGroup.]()
+>> * [@SpringBootTest.]()
+>> * [@DataJpaTest.]()
+>> * [@DataMongoTest.]()
+>> * [@AutoConfigureMockMVC.]()
+>> * [@WebMVCTest.]()
+>> * [@MockBean.]()
+>> * [@JsonTest.]()
+>> * [@TestPropertySource.]()
+
+
+
+
+
+
 
 
 # Main Concepts.
 * []()
-* [What is "Component Scan" for?.]()
-* [Component Scan in Spring Boot.]()
-* [@Component, @Service, @Repository annotations.]()
-* [@Component instead of @Service for business logic?.]()
+* [ComponentScan in Spring Boot.]()
 * [What is the difference between "web.xml" and the Spring Context "servlet.xml"?.]()
 * [What do you prefer to use for "Spring Configuration" - "XML" or "Annotation"?]()
-* [Spring Boot default auto scanning]()
 * []()
 * []()
 
