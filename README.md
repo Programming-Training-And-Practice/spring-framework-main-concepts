@@ -6,6 +6,8 @@
 
 ## Contents at a Glance.
 * [About](#about)
+* [Documentation.](#documentation)
+* [Useful links.](#useful-links)
 * [Spring Data JPA.](https://github.com/descriptions-of-it-technologies/spring-data-jpa)
 * [Spring Boot.](https://github.com/descriptions-of-it-technologies/spring-boot)
 * [Spring MVC.](https://github.com/descriptions-of-it-technologies/spring-mvc)
@@ -24,6 +26,19 @@
 
 
 ## About.
+
+
+
+
+
+## Documentation.
+
+
+
+
+
+## Useful links.
+* []()
 
 
 
