@@ -1,56 +1,87 @@
 # Spring Framework Annotations.
+
+
+
+
+
+## Contents at a Glance.
+* [About](#about)
+* [Documentation.](#documentation)
+* [Core Spring Framework Annotations.](#core-spring-framework-annotations)
+* [Spring Framework Stereotype Annotations](#spring-framework-stereotype-annotations)
+* []()
+* []()
+* []()
+* []()
+* [Help](#help)
+
+
+
+
+
+## About.
+
+
+
+
+
+## Documentation.
+
+
+
+
+
+## Useful URL's.
 * [Article About Spring Framework Annotations. №1](https://springframework.guru/spring-framework-annotations/)
 * [Article About Spring Component Scan.](https://springframework.guru/spring-component-scan/)
+
+
+
+
+## Sort annotations.
+
+| Annotation                                               | Description                                                                                                              |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| @Profile                                                 |                                                                                                                          |
+| @ActiveProfiles                                          |                                                                                                                          |
+|                                                          |                                                                                                                          |
+
+
+
+
+
 ## Core Spring Framework Annotations.
-* [@ComponentScan.]()
-* [@Configuration.]()
-* [@Bean.]()
-* [@Required]()
-* [@Autowired.]()
-* [@Qualifier.]()
-* [@Lazy]()
-* [@Value]()
 
-## Spring Framework Stereotype Annotations
-* [@Component.]()
-* [@Controller.]()
-* [@Service.]()
-* [@Repository.]()
+| Annotation                                               | Description                                                                                                              |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| @ComponentScan                                           |                                                                                                                          |
+| @Configuration                                           |                                                                                                                          |
+| @Bean                                                    |                                                                                                                          |
+| @Required                                                |                                                                                                                          |
+| @Autowired                                               |                                                                                                                          |
+| @Qualifier                                               |                                                                                                                          |
+| @Lazy                                                    |                                                                                                                          |
+| @Value                                                   |                                                                                                                          |
+| @Primary                                                 |                                                                                                                          |
+|                                                          |                                                                                                                          |
 
-## Spring Boot Annotations
-* [@EnableAutoConfiguration.]()
-* [@SpringBootApplication.]()
 
-##    Spring MVC and REST Annotations.
->> * [@Controller.]()
->> * [@RequestMapping.]()
->> * [@CookieValue.]()
->> * [@CrossOrigin.]()
 
-> ### Composed @RequestMapping Variants.
-> * [HTTP Methods.](https://restfulapi.net/http-methods/)
->> * [@GetMapping.]()
->> * [@PostMapping.]()
->> * [@PutMapping.]()
->> * [@PatchMapping.]()
->> * [@DeleteMapping.]()
->> * [@ExceptionHandler.]()
->> * [@InitBinder.]()
->> * [@Mappings and @Mapping.]()
->> * [@MatrixVariable.]()
->> * [@PathVariable.]()
->> * [@RequestAttribute.]()
->> * [@RequestBody.]()
->> * [@RequestHeader.]()
->> * [@RequestParam.]()
->> * [@RequestPart.]()
->> * [@ResponseBody.]()
->> * [@ResponseStatus.]()
->> * [@ControllerAdvice.]()
->> * [@RestController.]()
->> * [@RestControllerAdvice.]()
->> * [@SessionAttribute.]()
->> * [@SessionAttributes.]()
+
+
+## Spring Framework Stereotype Annotations.
+
+| Annotation                                               | Description                                                                                                              |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| @Component                                               |                                                                                                                          |
+| @Controller                                              |                                                                                                                          |
+| @Service                                                 |                                                                                                                          |
+| @Repository                                              |                                                                                                                          |
+|                                                          |                                                                                                                          |
+
+
+
+
 
 > ### Spring Cloud Annotations.
 >> * [@EnableConfigServer.]()
@@ -94,3 +125,7 @@
 >> * [@MockBean.]()
 >> * [@JsonTest.]()
 >> * [@TestPropertySource.]()
+
+* @DataJpaTest
+
+## Help.
