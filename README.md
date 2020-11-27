@@ -17,6 +17,7 @@
 * [Spring RestTemplate.](https://github.com/descriptions-of-it-technologies/spring-resttemplate)
 * [Spring WebClient.](https://github.com/descriptions-of-it-technologies/spring-webclient)
 * [Spring Framework Annotations.](spring-framework-annotations.md)
+* [Spring Framework Testing.](spring-framework-testing.md)
 * [Main Concepts.](#main-concepts)
 * [Spring Framework and RESTful Services.](#spring-framework-and-restful-services)
 * [Dependency Injection.](additional-files/dpendency-injection.md)
